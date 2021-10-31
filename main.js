@@ -37,6 +37,7 @@ const cronometro = new Chronometer()
 // cronometro.play()
 // cronometro.stop()
 // cronometro.reset()
+cronometro.resetDisplay();
 
 //Test
 
